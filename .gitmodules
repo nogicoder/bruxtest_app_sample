@@ -1,0 +1,3 @@
+[submodule "BruxtestReactNativeLib"]
+	path = BruxtestReactNativeLib
+	url = https://github.com/maciejlichon/BruxtestReactNativeLib
